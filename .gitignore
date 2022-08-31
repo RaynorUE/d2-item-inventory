@@ -1,3 +1,5 @@
+#Server Path Ignores
+/server/d2-maxroll-data-files/*.csv
 # Logs
 logs
 *.log
